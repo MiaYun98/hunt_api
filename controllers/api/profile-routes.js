@@ -1,7 +1,7 @@
 const express = require('express');
 const jwt = require("jsonwebtoken");
 const router = express.Router();
-const { User, Profile, Item, Shrub } = require('../../models');
+const { User, Profile } = require('../../models');
 
 // get all /api/profile
 router.get('/', (req, res) => {
@@ -32,8 +32,7 @@ router.get('/current-user', (req, res) => {
         Profile.findOne({
             where: {
                 UserId: userData.id
-            },
-            include: [Shrub]
+            }
         }).then(profileData => {
             console.log(profileData)
             res.json(profileData)

@@ -1,5 +1,5 @@
 const sequelize = require('../config/connection');
-const {User, Profile, Shrub, Item, ShrubTag, ProfileTag} = require("../models");
+const {User, Profile} = require("../models");
 const seedMe = async ()=>{
     await sequelize.sync({force:true})
     const users = [
