@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "ai": "^1.1.0",
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
@@ -11,6 +12,7 @@
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.3.3",
     "natural": "^5.2.4",
+    "openai": "^3.2.1",
     "sequelize": "^6.26.0"
   },
   "scripts": {
