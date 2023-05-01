@@ -1,19 +1,19 @@
 # hunt-api
 
 ## Description 
-This is API Repo for the Scavender Hunt App. It contains user information & Open AI key for the APP. 
+This is API Repo for the scavenger Hunt App. It contains user information & Open AI key for the APP. 
 
 ## UserStory 
 
 ```md
-When User load the page It should show you the proof that it is connected properly. 
-When you use specific tag for the API is directs User to the User profile, info, and open AI. 
+AS an developer who wants to build an API that contains User Information and the riddles of the scavenger hunt application. 
 ```
 
 ## Acceptance Criteria
 
 ```md
-
+When User load the page It should show you the proof that it is connected properly. 
+When you use specific tag for the API is directs User to the User profile, info, and open AI. 
 ```
 
 ## Installation 
