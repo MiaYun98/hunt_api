@@ -6,7 +6,8 @@ This is API Repo for the scavenger Hunt App. It contains user information & Open
 ## UserStory 
 
 ```md
-AS an developer who wants to build an API that contains User Information and the riddles of the scavenger hunt application. 
+AS an developer who wants to build an API that contains User Information 
+and the riddles of the scavenger hunt application. 
 ```
 
 ## Acceptance Criteria
@@ -19,7 +20,9 @@ When you use specific tag for the API is directs User to the User profile, info,
 ## Installation 
 
 ```md
+npm i
 
+Open AI 
 ```
 
 ## Usage 
