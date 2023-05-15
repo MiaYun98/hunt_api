@@ -28,7 +28,7 @@ Open AI
 ## Usage 
 
 ```md
-
+This is an interactice program for scavenger Hunt application project. 
 ```
 
 ## APP Screen Shot 
