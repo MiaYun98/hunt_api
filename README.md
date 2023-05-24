@@ -35,16 +35,7 @@ This is an interactice program for scavenger Hunt application project.
 
 
 
-## Credits 
-
-
-
-
 ## Deployed Application 
-
-
-
-## License 
 
 
 
