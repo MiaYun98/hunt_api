@@ -1,7 +1,8 @@
 # hunt-api
 
 ## Description 
-This is API Repo for the scavenger Hunt App. It contains user information & Open AI key for the APP. 
+This is API Repo for the scavenger Hunt App. It contains user informations & Open AI key for the APP. 
+
 
 ## UserStory 
 
