@@ -26,7 +26,9 @@ npm i
 - should Initialize the mysql database by 
     mysql -u root -p 
     create hunt_db
+    
 Open AI 
+
 ```
 
 ## Usage 
